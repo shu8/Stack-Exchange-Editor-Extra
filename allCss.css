@@ -9,3 +9,39 @@
     overflow:auto;
     height:70%;   
 }
+.ownURL {
+    border-radius: 5px;
+    width: 70%;
+    padding: 5px;
+}
+.go {
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    background-color: lightgreen;
+}
+.DDG-go {
+    float: right;
+}
+hr.or {
+    border: 0;
+    border-top: 1px solid whitesmoke;
+    text-align: center;
+}
+hr.or:after {
+    content:"or...";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.1em;
+    padding: 0.2em;
+    background: whitesmoke;
+}
+.DDG-container {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 2%;
+}
+.DDG-credit {
+    font-size: 0.8em;
+}
