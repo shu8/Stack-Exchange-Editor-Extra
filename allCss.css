@@ -45,3 +45,11 @@ hr.or:after {
 .DDG-credit {
     font-size: 0.8em;
 }
+
+#SEEP-aceEditor>#editor {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+        left: 0;
