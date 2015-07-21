@@ -81,4 +81,5 @@ hr.or:after {
     float: left;
     margin-right: 10px;
     font-size: 1.2em;
+    cursor: pointer;
 }
