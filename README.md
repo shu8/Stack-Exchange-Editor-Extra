@@ -3,17 +3,17 @@ A userscript that replaces the default SE markdown editor with an enhanced, easi
 
 # To Do:
 
-- [ ] add links:
+- [x] add links:
   
   - direct links
   - auto search via DuckDuckGo
 
-- [ ] add images:
+- [x] add images:
 
   - direct images
   - images that can be clicked on to open it in a new tab, bigger
   
-- [ ] find and replace:
+- [x] find and replace:
 
   - own find term, own modifier, own replace term
 
@@ -21,11 +21,11 @@ A userscript that replaces the default SE markdown editor with an enhanced, easi
 
   - possible regexes to change content
   
-- [ ] better usage of <kbd>TAB</kbd> key:
+- [x] better usage of <kbd>TAB</kbd> key:
 
   - pressing should indent rather than move on
   
-- [ ] code editor (probably Ace editor):
+- [x] code editor (probably Ace editor):
 
   - autocomplete editor that can insert code to the post
   
