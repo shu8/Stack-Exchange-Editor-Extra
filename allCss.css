@@ -58,6 +58,12 @@ hr.or:after {
     float: right;
 }
 
+.SEEP-addCode {
+    float:right;
+    margin-right: 5px;
+}
+
+
 .SEEP-toolbar {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
