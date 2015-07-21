@@ -76,3 +76,9 @@ hr.or:after {
 .SEEP-toolbar >span+span {
     margin-left:2px;
 }
+
+.SEEP-closeDialog {
+    float: left;
+    margin-right: 10px;
+    font-size: 1.2em;
+}
