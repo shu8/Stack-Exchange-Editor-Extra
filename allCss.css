@@ -62,3 +62,11 @@ hr.or:after {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
 }
+
+.SEEP-toolbar > span {
+    cursor: pointer;
+}
+
+.SEEP-toolbar >span+span {
+    margin-left:2px;
+}
