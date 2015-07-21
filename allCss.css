@@ -84,7 +84,12 @@ hr.or:after {
     cursor: pointer;
 }
 
-.SEEP-toolbar.findReplace > input{
+.SEEP-toolbar.findReplace > input[type='text'] {
     height: 10px;
     width: 25%;
+}
+
+.SEEP-toolbar.findReplace > input[type='button'] {
+    width: 10%;
+    height: 100%;
 }
