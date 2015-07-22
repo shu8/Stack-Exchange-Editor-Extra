@@ -25,7 +25,7 @@ A userscript that replaces the default SE markdown editor with an enhanced, easi
 
   - pressing should indent rather than move on
 
-- [ ] KBD button:
+- [x] KBD button:
   
   - button to surround selected text with `<kbd></kbd>`
   - possibly shortcut as well
