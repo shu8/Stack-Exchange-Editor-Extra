@@ -24,6 +24,11 @@ A userscript that replaces the default SE markdown editor with an enhanced, easi
 - [x] better usage of <kbd>TAB</kbd> key:
 
   - pressing should indent rather than move on
+
+- [ ] KBD button:
+  
+  - button to surround selected text with `<kbd></kbd>`
+  - possibly shortcut as well
   
 - [x] code editor (probably Ace editor):
 
