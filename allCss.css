@@ -67,6 +67,7 @@ hr.or:after {
 .SEEX-toolbar {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
+    padding-right: 147px;
 }
 
 .SEEX-toolbar > span {
