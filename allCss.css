@@ -1,4 +1,4 @@
-.SEEP-centered {
+.SEEX-centered {
     width:40%;
     z-index:1001;
     top:190px;
@@ -46,7 +46,7 @@ hr.or:after {
     font-size: 0.8em;
 }
 
-#SEEP-aceEditor>#editor {
+#SEEX-aceEditor>#editor {
     position: absolute;
     top: 10%;
     right: 0;
@@ -54,46 +54,46 @@ hr.or:after {
     left: 0;
 }
 
-.SEEP-aceLanguages {
+.SEEX-aceLanguages {
     float: right;
 }
 
-.SEEP-addCode {
+.SEEX-addCode {
     float:right;
     margin-right: 5px;
 }
 
 
-.SEEP-toolbar {
+.SEEX-toolbar {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
 }
 
-.SEEP-toolbar > span {
+.SEEX-toolbar > span {
     cursor: pointer;
 }
 
-.SEEP-toolbar >span+span {
+.SEEX-toolbar >span+span {
     margin-left:2px;
 }
 
-.SEEP-closeDialog {
+.SEEX-closeDialog {
     float: left;
     margin-right: 10px;
     font-size: 1.2em;
     cursor: pointer;
 }
 
-.SEEP-toolbar.findReplace > input[type='text'] {
+.SEEX-toolbar.findReplace > input[type='text'] {
     height: 10px;
     width: 25%;
 }
 
-.SEEP-toolbar.findReplace > input[type='button'] {
+.SEEX-toolbar.findReplace > input[type='button'] {
     width: 10%;
     height: 100%;
 }
 
-.SEEP-asLinkContainer {
+.SEEX-asLinkContainer {
     display: block;
 }
