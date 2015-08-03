@@ -1,36 +1,29 @@
-# Stack-Exchange-Editor-Pro
-A userscript that replaces the default SE markdown editor with an enhanced, easier to use markdown editor
+## Stack Exchange Editor Extra
+A userscript which adds extra features to the default SE Markdown Editor.
 
-# To Do:
+Extra features:
 
-- [x] add links:
-  
-  - direct links
-  - auto search via DuckDuckGo
+- Insert *code* with Ace Editor (<kbd>alt</kbd> + <kbd>a</kbd>)
+- Find & Replace (with modifiers) (<kbd>alt</kbd>+ <kbd>f</kbd>)
+- KBD-ify selected text (<kbd>alt</kbd>+ <kbd>k</kbd>)
+- Auto correct (very basic)
+- <kbd>Tab</kbd> key indents rather than moves focus
+- Side by side editing (for new questions/new answers only)
+- Improved link insertion: auto search via DuckDuckGo allows you to easily link to popular websites
+- Improved image insertion: add a smaller image with a link to a bigger one or just the plain image
 
-- [x] add images:
+## Usage
 
-  - direct images
-  - images that can be clicked on to open it in a new tab, bigger
-  
-- [x] find and replace:
+The image & link dialogs are simply replaced - clicking the normal icon will show the new one. For all other features, a small toolbar is added:
 
-  - own find term, own modifier, own replace term
+>![Toolbar](http://i.imgur.com/egMZf5P.png)
 
-- [ ] ? autocorrect (will be the hardest part):
+## Install
 
-  - possible regexes to change content
-  
-- [x] better usage of <kbd>TAB</kbd> key:
+- You'll need a userscript manager such as [Greasemonkey](http://www.greasespot.net/) (for Firefox) or [Tampermonkey](https://tampermonkey.net/) (for Chrome). 
+- <kbd>[Install]()</kbd> or <kbd>[View source]()</kbd>
+- I've only tested on Chrome so far... 
 
-  - pressing should indent rather than move on
+## Feedback
 
-- [x] KBD button:
-  
-  - button to surround selected text with `<kbd></kbd>`
-  - possibly shortcut as well
-  
-- [x] code editor (probably Ace editor):
-
-  - autocomplete editor that can insert code to the post
-  
+Please post bugs or feature requests as Issues at Github. Pull requests are, of course, welcome! :) For bugs, please check whether there is anything in your browser's console to help in fixing it!
