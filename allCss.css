@@ -1,4 +1,4 @@
-.SEEX-centered {
+.enhancedEditor-centered {
     width:40%;
     z-index:1001;
     top:190px;
@@ -46,7 +46,7 @@ hr.or:after {
     font-size: 0.8em;
 }
 
-#SEEX-aceEditor>#editor {
+#enhancedEditor-aceEditor>#editor {
     position: absolute;
     top: 10%;
     right: 0;
@@ -54,47 +54,47 @@ hr.or:after {
     left: 0;
 }
 
-.SEEX-aceLanguages {
+.enhancedEditor-aceLanguages {
     float: right;
 }
 
-.SEEX-addCode {
+.enhancedEditor-addCode {
     float:right;
     margin-right: 5px;
 }
 
 
-.SEEX-toolbar {
+.enhancedEditor-toolbar {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
     padding-right: 147px;
 }
 
-.SEEX-toolbar > span {
+.enhancedEditor-toolbar > span {
     cursor: pointer;
 }
 
-.SEEX-toolbar >span+span {
+.enhancedEditor-toolbar >span+span {
     margin-left:2px;
 }
 
-.SEEX-closeDialog {
+.enhancedEditor-closeDialog {
     float: left;
     margin-right: 10px;
     font-size: 1.2em;
     cursor: pointer;
 }
 
-.SEEX-toolbar.findReplace > input[type='text'] {
+.enhancedEditor-toolbar.findReplace > input[type='text'] {
     height: 10px;
     width: 25%;
 }
 
-.SEEX-toolbar.findReplace > input[type='button'] {
+.enhancedEditor-toolbar.findReplace > input[type='button'] {
     width: 10%;
     height: 100%;
 }
 
-.SEEX-asLinkContainer {
+.enhancedEditor-asLinkContainer {
     display: block;
 }
